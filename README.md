@@ -71,6 +71,7 @@ Cualquiera que sea el metodo HTTP que se elija, el servidor recibe una cadena qu
 Enviar archivos con formularios HTML es un caso especial. Los archivos son datos binarios o se consideran como tales, mientras que todos los demas datos son datos de texto. Debido a que HTTP es un prtocolo de texto, existen requisitos especiales para manejar datos binarios.
 
 https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data
+https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation
 
 
 
